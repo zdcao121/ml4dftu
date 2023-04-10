@@ -1,0 +1,8 @@
+{"U_value_0": 1.869, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.256637}
+{"U_value_0": 9.999, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.581465}
+{"U_value_0": 2.13, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.246304}
+{"U_value_0": 5.763, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.233228}
+{"U_value_0": 0.0, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.342037}
+{"U_value_0": 4.271, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.20135}
+{"U_value_0": 4.994, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.206425}
+{"U_value_0": 3.4, "U_value_1": 0.0, "bg_dftu": 0, "bg_hse": 0.85554, "delta_band": 0.208836}

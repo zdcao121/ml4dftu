@@ -1,0 +1,34 @@
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type SHA256
+  warnings.warn("Ignoring unknown variable type %s" % key)
+/home/users/zdcao/anaconda3/envs/BayesOpt/lib/python3.7/site-packages/pymatgen/io/vasp/inputs.py:1711: UserWarning: Ignoring unknown variable type COPYR
+  warnings.warn("Ignoring unknown variable type %s" % key)
+Optimization has been finished!
+(array([4.29942994]), -0.21339102311290478)
